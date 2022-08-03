@@ -3208,6 +3208,8 @@ pl:
             zero: "Nie masz żadnych aktywnych produktów."
             one: "Masz jeden aktywny produkt"
             other: "Masz %{count} aktywnych produktów"
+            few: "Masz %{count} aktywnych produktów"
+            many: "Masz %{count} aktywnych produktów"
         order_cycles:
           order_cycles: "Cykle zamówień"
           order_cycles_tip: "Cykle zamówień określają, kiedy i gdzie Twoje produkty są dostępne dla klientów."
@@ -3215,6 +3217,8 @@ pl:
             zero: "Nie masz żadnych aktywnych cykli zamówień."
             one: "Masz jeden aktywny cykl zamówień."
             other: "Masz %{count} aktywnych cykli zamówień."
+            few: "Masz %{count} aktywnych cykli zamówień."
+            many: "Masz %{count} aktywnych cykli zamówień."
           manage_order_cycles: "ZARZĄDZAJ CYKLAMI ZAMÓWIEŃ"
       shipping_methods:
         index:
